@@ -12,13 +12,6 @@ A real-time, multi-stock **price prediction web app** using **LSTM neural networ
 - 🧠 LSTM-based time series forecasting
 - 📉 Visual comparison of predicted vs actual stock prices
 - 🌐 Deployed via Streamlit Cloud (or Render)
-
----
-
-## 🖼️ Demo Screenshot
-
-![App Screenshot](screenshot.png)
-
 ---
 
 ## 📦 Installation
